@@ -1,1 +1,1 @@
-instantiate_new_array = new.array 
+instantiate_new_array = array.new 
