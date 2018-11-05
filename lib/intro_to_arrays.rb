@@ -8,7 +8,7 @@ def array_with_two_elements
   @my_two_array = array_with_two_elements
 end
 
-def first_element
+def my_first_element
   taylor_swift_array = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
   @taylor_swift = taylor_swift_array
   taylor_swift_array[0]
